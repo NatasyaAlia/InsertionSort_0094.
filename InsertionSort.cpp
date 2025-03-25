@@ -8,7 +8,7 @@ void input()
 { // Procedure Input
 while (true) 
 {
-cout << "Masukkan Jumlah Data pada Array :"; // Membuat Inputan jumlah element Array
+cout << "Masukkan Jumlah Data pada Array :"; // Membuat Inputan jumlah element Array tidak lebih dari 20
 cin >> n; // Memanggil Variable inputan n
 
 if (n <= 20)
