@@ -58,6 +58,7 @@ for (i = 1; i <= n - 1; i++)
     arr [j + 1] = temp; // Step 5
     
  }   
+ 
 void display ()
 {
     cout << endl; // Output baris kosong 
