@@ -39,7 +39,10 @@ void InsertionSort()
     int temp; // Membuat variable data temporer atau penyimpanan sementara
     int j. i; // Membuat variable j sebagai penanda
    
- for (i = 1; i <= n - 1; i++)
+ 
+
+}
+for (i = 1; i <= n - 1; i++)
  { // Step 1
     
     temp = arr[i]; // Step 2
@@ -55,9 +58,6 @@ void InsertionSort()
     arr [j + 1] = temp; // Step 5
     
  }   
-
-}
-
 void display ()
 {
     cout << endl; // Output baris kosong 
